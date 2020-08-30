@@ -19,5 +19,8 @@ Accumulation of knowledge to create a custom colour detector and draw a bounding
 Use_Mouse:
 Drawing Custom images using mouse in OpenCV
 
-c
+QRcode_read: 
+Uses pyzbar to read and extract QR code data and type
 
+Hexagon_detect.py:
+Uses cotour detection to detect a particular shape in the image. Can be implemented in locating certain pre-defined targets for a Robot to move in
