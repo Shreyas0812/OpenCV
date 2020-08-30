@@ -13,5 +13,11 @@ Detects red coloured objects from a given image and masks the other colours
 HSVbox_trackbar:
 Attempt to learn more about creating trackbars in OpenCV for manipulating colours
 
-boundingRect_using_
+boundingRect_using_trackbar_colour:
+Accumulation of knowledge to create a custom colour detector and draw a bounding box around chosen colour on the trackbar.
+
+Use_Mouse:
+Drawing Custom images using mouse in OpenCV
+
+c
 
